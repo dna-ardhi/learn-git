@@ -1,2 +1,3 @@
 - main feature
-- feature 002 dev
+- feature 01 qa
+- adjust 01 qa
